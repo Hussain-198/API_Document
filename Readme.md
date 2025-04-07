@@ -28,7 +28,7 @@ The project uses:
 ### Home / Events Page
 ![UI Screenshot](./Images/API_UIDiagram.png)
 
-### Swagger Status
+### Swagger Status (Current Dev Status)
 ![Swagger Screenshot](./Images/Swagger_Api_Diagram.png)
 
 
@@ -41,17 +41,6 @@ The project uses:
 - Book and manage tickets
 - Admin panel for event management
 - RESTful API with Swagger documentation
-
----
-
-## Getting Started
-
-1. Clone the repo  
-   `git clone https://github.com/yourusername/concert-craze.git`
-
-2. Run backend with Spring Boot  
-3. Open frontend with Live Server or any static file server  
-4. Access Swagger at: `http://localhost:8080/swagger-ui.html`
 
 ---
 
