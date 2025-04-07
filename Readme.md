@@ -58,7 +58,7 @@ The project uses:
 
 ## Contact
 
-For any queries, feel free to reach out at [your_email@example.com].
+For any queries, feel free to reach out at [zahidhussain6143@gmail.com].
 
 ---
 
