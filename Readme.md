@@ -17,7 +17,6 @@ The project uses:
 
 ## Documentation Links
 
-- [API UI Document](https://docs.google.com/document/d/12VCAHjyBFXaJuAUCW_GkqEqjPDS6pM3S-vyp4tZNwtk/edit?usp=sharing)  
 - [Architecture Diagram](https://docs.google.com/document/d/1O3opYtxxhXzqpzHZaSKCkpvD8FJBjsaM0q-npIpYekA/edit?usp=sharing)  
 - [ER Diagram](https://docs.google.com/document/d/12ijJc4_Xcke4Fj18-fr4THZdbfarq2vo9DoxuV8cN9g/edit?usp=sharing)
 
